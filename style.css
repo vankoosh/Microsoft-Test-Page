@@ -122,8 +122,6 @@ main {
 /*-----------------------------------------------NAV */
 
 .logo {
-  height: 30px;
-  width: auto;
   position: absolute;
   top: -4px;
   left: 5px;
